@@ -1,4 +1,1 @@
-python
-pandas
-flask
-gunicorn
+python=3.9.10
